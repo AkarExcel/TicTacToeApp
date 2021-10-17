@@ -5,6 +5,10 @@ namespace TicTacToeApp
 {
     class Program
     {
+        /// <summary>
+        /// This is the value definition for the Game
+        /// this game is built on the CLI
+        /// </summary>
         static char[] spaces = new char[] { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
         static int player = 1;
         static int choice;
