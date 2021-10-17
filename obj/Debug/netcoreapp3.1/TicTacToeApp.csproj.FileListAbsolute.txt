@@ -1,0 +1,14 @@
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.exe
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.deps.json
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.runtimeconfig.json
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.runtimeconfig.dev.json
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.dll
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\bin\Debug\netcoreapp3.1\TicTacToeApp.pdb
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.csproj.AssemblyReference.cache
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.AssemblyInfo.cs
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.dll
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.pdb
+C:\Users\MARVEL AKAR\source\repos\TicTacToeApp\TicTacToeApp\obj\Debug\netcoreapp3.1\TicTacToeApp.genruntimeconfig.cache
